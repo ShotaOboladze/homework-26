@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    text-transform: uppercase;
+    font-family: 'Alegreya SC';   
+}
+
+body {
+    background-image: url(Main2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    color: white;
+}
+
+#h1-1, #h1-2, h2, nav, div {
+    width: 100%;
+} 
+
+nav {
+    display: flex;
+    margin-top: 150px;
+    margin-left: 1800px;
+}
+
+a {
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    margin-left: 100px;
+}
+
+h2 {
+    font-size: 100px;
+    margin-top: 400px;
+    margin-left: 2300px;
+}
+
+#h1-1 {
+    font-size: 150px;
+    margin-top: 200px;
+    margin-left: 1500px;
+}
+
+div {
+    margin-top: 200px;
+    margin-left: 2350px;
+}
+
+button {
+    width: 600px;
+    height: 200px;
+    border-radius: 60px;
+    font-size: 90px;
+}
+
+#h1-2 {
+    font-size: 150px;
+    margin-top: 500px;
+    margin-left: 2260px;
+}
